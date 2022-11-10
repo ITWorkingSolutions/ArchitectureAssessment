@@ -1,6 +1,7 @@
 # ArchitectureAssessment
 Architecture Assessment is a Visio add-in design to support generating diagrams from external data. 
-Features
+
+<header><h2>Features</h2></header>
 <ul style=“list-style-type:square”>
 <li>Box Diagram: create a diagram of concentric shapes based on some sort of hierarchical (parent/child) data relationship.</li>
 <li>Connection Diagram: create or update a diagram based on relationship through line connections.</li>
