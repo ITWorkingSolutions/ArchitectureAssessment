@@ -12,3 +12,5 @@ Architecture Assessment is a Visio add-in design to support generating diagrams 
 <li>Container: convert stencil master shapes to a container, required for Box Diagram.</li>
 <li>Custom Text Callout: Create a standard Visio Data Graphic base on shape, colour and text.</li>
 </ul>
+
+<a href="https://youtu.be/t_hDGW0rF2A">Visio Addin Architecture Assessment overview</a>
