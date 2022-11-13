@@ -4,16 +4,16 @@ Architecture Assessment is a Visio addin designed to support generating diagrams
 <header><h2>Features</h2></header>
 <a href="https://youtu.be/t_hDGW0rF2A">Visio Addin Architecture Assessment overview</a>
 <header><h3>Visio Addin Architecture Assessment Box Diagram</h3></header>
-Box Diagram generates a nested shape diagram based on recursive parent child relationship or a reference denoting levels e.g., 01.01.01
+Box Diagram generates a nested shape diagram based on recursive parent child relationship or a reference denoting levels e.g., 01.01.01<br>
 <a href="https://youtu.be/LMbZKw65mX0">Visio Addin Architecture Assessment Box Diagram</a>
 <header><h3>Visio Addin Architecture Assessment Connection Diagram</h3></header>
-Connection Diagram generates shapes with connectors based on data file holding the relationships.
+Connection Diagram generates shapes with connectors based on data file holding the relationships.<br>
 <a href="https://youtu.be/y2qXsLz2pno">Visio Addin Architecture Assessment Connection Diagram</a>
 <header><h3>Visio Addin Architecture Assessment Target Diagram</h3></header>
-Target Diagram generates shapes positioned on a target of up to 6 concentric circles, using a data attribute value to determine the circle each shape should be positioned in.
+Target Diagram generates shapes positioned on a target of up to 6 concentric circles, using a data attribute value to determine the circle each shape should be positioned in.<br>
 <a href="https://youtu.be/Ip75R4XS8_U">Visio Addin Architecture Assessment Target Diagram</a>
 <header><h3>Visio Addin Architecture Assessment Import Archimate Diagram</h3></header>
-Import Archimate Diagram reads an archimate open exchange format xml file exported from an archimate repository and generates the selected diagrams.
+Import Archimate Diagram reads an archimate open exchange format xml file exported from an archimate repository and generates the selected diagrams.<br>
 <a href="https://youtu.be/EAY8zamBm6g">Visio Addin Architecture Assessment Import Archimate Diagram</a>
 <header><h3>Visio Addin Architecture Assessment Utilities and Tools</h3></header>
 <ul style=“list-style-type:square”>
